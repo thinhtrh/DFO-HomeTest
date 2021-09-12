@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "681194569716",
+    "project_id": "dfo-hometest",
+    "storage_bucket": "dfo-hometest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681194569716:android:0286bde5242580b4c643a1",
+        "android_client_info": {
+          "package_name": "com.thinhth.dfohometest.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681194569716-4gplc756fvjjhuqcq1njg57llqq2l76t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnarUm1s9-LWFY6rc-JB-C0Htk9axTfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681194569716-4gplc756fvjjhuqcq1njg57llqq2l76t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681194569716-5ae80phb26mvds47ikgmk53u3b5mg41f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinhth.dfohometest.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
